@@ -1,0 +1,13 @@
+After installing docker-compose desktop
+I ran it locally :
+with commands: 
+          docker-compose pull
+after that:
+          docker-compose up
+
+and: 
+          docker-compose -f docker-compose.yaml -f docker-compose-load.yaml up
+
+and finally press on "start" in Docker-Compose and linked it to : http://localhost:8080
+
+![Stan's Robot-Shop](/c/Users/97250/OneDrive/Pictures/Robot-Shop-Screen.png)
