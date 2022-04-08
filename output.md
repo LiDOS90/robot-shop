@@ -14,5 +14,5 @@ and finally press on "start" in Docker-Compose and linked it to : http://localho
 
 
 #13: There is a problem:  When I click the link there is an Error.
-
+In order to fix the problem i dragged the picture directly to GitHub. 
 ![Robot-Shop-Screen Fix](https://user-images.githubusercontent.com/99135503/162477749-8499915e-035f-40c9-9667-909b24917383.png)
