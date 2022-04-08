@@ -11,3 +11,10 @@ and:
 and finally press on "start" in Docker-Compose and linked it to : http://localhost:8080
 
 ![Stan's Robot-Shop](/c/Users/97250/OneDrive/Pictures/Robot-Shop-Screen.png)
+
+
+#13: There is a problem:  When I click the link there is an Error.
+
+![Stan's Robot-Shop Fix](https://photos.app.goo.gl/G7EkQFyhwfJ46sJRA)
+
+
